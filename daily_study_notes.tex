@@ -8,13 +8,16 @@
 % This packet is for the math notation
 \usepackage{amsmath, amssymb}%  , amsfonts, amsthm, fouriernc}
 \usepackage{mathtools} % for 'bmatrix*' env.; loads 'amsmath' package automatically
-\usepackage{natbib}
+% \usepackage{natbib}
 \usepackage{graphicx}
 \usepackage{url}
 \graphicspath{ {./images/} }
 % custom section
 \usepackage{tikz}
 \usepackage[explicit]{titlesec}
+\usepackage{pythontex}
+\usepackage{biblatex} %Imports biblatex package
+\bibliography{endnote_export2_bib}
 
 
 %% COMMAND PART
@@ -36,10 +39,16 @@
 
 \tableofcontents
 
+\clearpage
+\newpage
+\pagenumbering{arabic}
+    \input{./github_commands.tex}
+
+
 \section{LINEAR ALGEBRA - GILBERT STRANG}
 \subsection{Video 1 - 4}
 
-operation matrix on the left is for row, on the right is for column
+operation matrix on the left is for row, on the right is for column \cite{RN10}
 \\A = LU = LDU, with LDU, the diaganol in the L,U is ones.
 \\A = LU helps the reduce the computational efforts a lot.
 
@@ -1052,8 +1061,10 @@ moi ve duoc
 
 
 \section{Conclusion}
-``I always thought something was fundamentally wrong with the universe'' \citep{adams1995hitchhiker}
+% ``I always thought something was fundamentally wrong with the universe'' \citep{adams1995hitchhiker}
 
-% \bibliographystyle{plain}
+
+\printbibliography[title=References]
 % \bibliography{references}
+
 \end{document}
