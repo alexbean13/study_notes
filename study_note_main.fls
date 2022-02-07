@@ -1,7 +1,7 @@
 PWD e:\study_notes
 INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT e:\study_notes\daily_study_notes.tex
-OUTPUT daily_study_notes.log
+INPUT e:\study_notes\study_note_main.tex
+OUTPUT study_note_main.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -665,7 +665,7 @@ INPUT C:\Program Files\MiKTeX\tex\latex\filehook\filehook-2020.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\filehook\filehook-2020.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\filehook\filehook-2020.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
-OUTPUT daily_study_notes.pytxcode
+OUTPUT study_note_main.pytxcode
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
@@ -766,10 +766,10 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\daily_study_notes.aux
-INPUT daily_study_notes.aux
-INPUT daily_study_notes.aux
-OUTPUT daily_study_notes.aux
+INPUT .\study_note_main.aux
+INPUT study_note_main.aux
+INPUT study_note_main.aux
+OUTPUT study_note_main.aux
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -828,23 +828,18 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
-OUTPUT daily_study_notes.bcf
-INPUT daily_study_notes.bbl
-INPUT .\daily_study_notes.bbl
-INPUT daily_study_notes.bbl
-INPUT .\daily_study_notes.bbl
-INPUT .\daily_study_notes.bbl
-INPUT daily_study_notes.bbl
-INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmss.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmss.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmss.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmss.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss1000.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss1440.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecsx1440.tfm
-INPUT .\daily_study_notes.toc
-INPUT daily_study_notes.toc
-INPUT daily_study_notes.toc
+OUTPUT study_note_main.bcf
+INPUT study_note_main.bbl
+INPUT .\study_note_main.bbl
+INPUT study_note_main.bbl
+INPUT .\study_note_main.bbl
+INPUT .\study_note_main.bbl
+INPUT study_note_main.bbl
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
+INPUT .\study_note_main.toc
+INPUT study_note_main.toc
+INPUT study_note_main.toc
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1000.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
@@ -862,13 +857,13 @@ INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-OUTPUT daily_study_notes.pdf
+OUTPUT study_note_main.pdf
 INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-OUTPUT daily_study_notes.toc
-INPUT .\github_commands.tex
-INPUT github_commands.tex
-INPUT .\github_commands.tex
-INPUT github_commands.tex
+OUTPUT study_note_main.toc
+INPUT .\content_github_commands.tex
+INPUT content_github_commands.tex
+INPUT .\content_github_commands.tex
+INPUT content_github_commands.tex
 INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
@@ -879,24 +874,14 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm0700.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm0500.tfm
-INPUT .\images\\emLinux_c03_signal_ctrl_C.jpg
-INPUT images\\emLinux_c03_signal_ctrl_C.jpg
-INPUT .\images\\emLinux_c03_signal_ctrl_C.jpg
-INPUT .\images\\emLinux_c03_signal_ctrl_C.jpg
-INPUT .\images\\emLinux_c03_signal_ctrl_C.jpg
-INPUT .\images\\emLinux_c03_signal_ctrl_C.jpg
-INPUT .\images\\emLinux_c03_multiple_processes.jpg
-INPUT images\\emLinux_c03_multiple_processes.jpg
-INPUT .\images\\emLinux_c03_multiple_processes.jpg
-INPUT .\images\\emLinux_c03_multiple_processes.jpg
-INPUT .\images\\emLinux_c03_multiple_processes.jpg
-INPUT .\images\\emLinux_c03_multiple_processes.jpg
-INPUT .\images\\emLinux_c03_fields-of_ps-aux_command.jpg
-INPUT images\\emLinux_c03_fields-of_ps-aux_command.jpg
-INPUT .\images\\emLinux_c03_fields-of_ps-aux_command.jpg
-INPUT .\images\\emLinux_c03_fields-of_ps-aux_command.jpg
-INPUT .\images\\emLinux_c03_fields-of_ps-aux_command.jpg
-INPUT .\images\\emLinux_c03_fields-of_ps-aux_command.jpg
+INPUT .\content_linear_algebra.tex
+INPUT content_linear_algebra.tex
+INPUT .\content_linear_algebra.tex
+INPUT content_linear_algebra.tex
+INPUT .\content_control_bootcamp_SteveBruton.tex
+INPUT content_control_bootcamp_SteveBruton.tex
+INPUT .\content_control_bootcamp_SteveBruton.tex
+INPUT content_control_bootcamp_SteveBruton.tex
 INPUT .\images\\jlink_segger_edu_9pin_JWD-SWD_connector.jpg
 INPUT images\\jlink_segger_edu_9pin_JWD-SWD_connector.jpg
 INPUT .\images\\jlink_segger_edu_9pin_JWD-SWD_connector.jpg
@@ -921,21 +906,27 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT .\content_matlab_simulink.tex
+INPUT content_matlab_simulink.tex
+INPUT .\content_matlab_simulink.tex
+INPUT content_matlab_simulink.tex
+INPUT .\content_stm32_toanchung.tex
+INPUT content_stm32_toanchung.tex
+INPUT .\content_stm32_toanchung.tex
+INPUT content_stm32_toanchung.tex
 INPUT .\images\\control_bootcamp_stable_region_in_s_and_z_domain.jpg
 INPUT images\\control_bootcamp_stable_region_in_s_and_z_domain.jpg
 INPUT .\images\\control_bootcamp_stable_region_in_s_and_z_domain.jpg
 INPUT .\images\\control_bootcamp_stable_region_in_s_and_z_domain.jpg
 INPUT .\images\\control_bootcamp_stable_region_in_s_and_z_domain.jpg
 INPUT .\images\\control_bootcamp_stable_region_in_s_and_z_domain.jpg
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecti1000.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\eccc1000.tfm
-INPUT daily_study_notes.aux
-INPUT daily_study_notes.run.xml
-OUTPUT daily_study_notes.run.xml
-INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1000.pk
-INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1000.pk
-INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk
-INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk
+INPUT .\content_whats_next.tex
+INPUT content_whats_next.tex
+INPUT .\content_whats_next.tex
+INPUT content_whats_next.tex
+INPUT study_note_main.aux
+INPUT study_note_main.run.xml
+OUTPUT study_note_main.run.xml
 INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
@@ -946,8 +937,8 @@ INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\e
 INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
 INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
 INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
-INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1440.pk
-INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1440.pk
+INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb

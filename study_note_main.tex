@@ -1,0 +1,67 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\title{Paper_Summary}
+\author{minhhoangdo0913 }
+\date{November 2020}
+
+% This packet is for the math notation
+\usepackage{amsmath, amssymb}%  , amsfonts, amsthm, fouriernc}
+\usepackage{mathtools} % for 'bmatrix*' env.; loads 'amsmath' package automatically
+% \usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{xurl}
+\graphicspath{ {./images/} }
+% custom section
+\usepackage{tikz}
+\usepackage[explicit]{titlesec}
+\usepackage{enumitem} 
+\usepackage{pythontex}
+\usepackage{biblatex} %Imports biblatex package
+% \bibliographystyle{unsrt}
+\bibliography{ref}
+\bibliography{references}
+
+
+%% COMMAND PART
+% \newcommand\inv[1]{#1\raisebox{1.15ex}{$\scriptscriptstyle-\!1$}}
+% \newcommand*\sectionlabel{}
+% \titleformat{\section}
+%   {\gdef\sectionlabel{}
+%    \normalfont\sffamily\Large\bfseries\scshape}
+%   {\gdef\sectionlabel{\thesection\ }}{0pt}
+%   {
+% \noindent
+% \begin{tikzpicture}
+% \node[rectangle,rounded corners=3pt,inner sep=4pt,fill=blue!50!black,text width= 0.95\columnwidth] {\color{white}\sectionlabel#1};
+% \end{tikzpicture}
+%   }
+\titlespacing*{\section}{0pt}{15pt}{10pt}
+
+\begin{document}
+
+\tableofcontents
+
+\clearpage
+\newpage
+\pagenumbering{arabic}
+
+\input{./content_github_commands.tex}
+\input{./content_linear_algebra.tex}
+% \input{./content_embedded_linux.tex}
+\input{./content_control_bootcamp_SteveBruton.tex}
+\input{./content_matlab_simulink.tex}
+\input{./content_stm32_toanchung.tex}
+\input{./content_whats_next.tex}
+% \input{./ref.tex}
+% ``I always thought something was fundamentally wrong with the universe'' \citep{adams1995hitchhiker}
+
+% \addcontentsline{toc}{chapter}{Bibliography}
+
+% \begin{singlespace} 
+
+% \end{singlespace}
+% \printbibliography[title=References]
+
+
+\end{document}

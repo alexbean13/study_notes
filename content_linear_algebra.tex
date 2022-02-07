@@ -1,0 +1,108 @@
+
+\section{LINEAR ALGEBRA - GILBERT STRANG}
+\subsection{Video 1 - 4}
+
+operation matrix on the left is for row, on the right is for column \cite{RN10}
+\\A = LU = LDU, with LDU, the diaganol in the L,U is ones.
+\\A = LU helps the reduce the computational efforts a lot.
+
+
+\subsection{Video 5 (Nov 2, 2021)}
+
+Symmetric matrix A' = A
+\\R' x R is always a symmetric matrix. Prove: (R'.R)' = R'.R'' = R'.R
+\\Chapter 3: Vector spaces
+\\Every vector spaces has a vector zeros, R2 = [2 3], [pi e], R3 = [2 3 4], [3 2 0]
+8 rules in the book.
+Every subspace must have the zero vector because we must be allowed to do the math operation with zero.
+subspace of R2: whole r2, 2 > any lines go through the origin, 3 > zero vector [0 0].
+how to find the subspace: matrix A -> take columns of A, find all the combinations of the column then you have the column subspaces of the matrix A
+
+\subsection{Video 6 (Nov 2, 2021) }
+
+Read chapter 3 of the book.
+\\Vector spaces and subspaces
+\\Column space of A: solving Ax = b
+\\Nullspace of A: solving Ax = 0
+\\Vector space requirements: v + w and cv are in the space, all the combinations cv + dw are in the space.
+\\We can solve the A.x = b exactly if b is in the column space of A, noted as C(A). Because in the same subspace, any linear combination of the columns in the A with x is B, and B will belongs to that subspace.
+\\Pivot column, the column that is independent (27m)
+\\NULL space of A, noted as N(A), is all the combination of x that make A.x = 0, another ways is that with b = 0, solve A.x = b.
+\\Check that the solution of A.x = 0 always give a subspace. What do we have to check?
+If Av = 0 and Aw = 0, how about A(v + w) must be = 0
+\\Ax = b, do the solutions form the subspace -> NO, check if the zero-vector is not a solution or not. Although there are many solutions but there is no zero-vector solution (origin). So the solution is the line and the plan which does not go through the origin.
+
+\subsection{Video 7 (Nov 3, 2021)}
+
+Solving Ax = 0, break A -> U -> R, matlab function is rref (reduced row echelon form).
+\\If the matrix has m (let's say m = 3) columns, and the rank (aka number of pivots point of that matrix) = 2, then the matrix has 3 - 2 = 1 free columns.
+\\x = c*[-F , I], [-F , I] is the nullspace matrix, called N. Nullspace is the matrix, whose column is the special solution
+\\Null space N = [-Free, I], nullspace stores all the solution.
+\begin{equation}
+A = 
+\left({\begin{array}{ccc} 1 & 2 & 3 \\ 2 & 4 & 6 \\ 2 & 6 & 8 \\ 2 & 8 & 10 \end{array}}\right)=
+\left({\begin{array}{ccc} 1 & 2 & 3 \\ 0 & 0 & 0 \\ 0 & 2 & 2 \\ 0 & 4 & 4 \end{array}}\right)=
+\left({\begin{array}{ccc} 1 & 2 & 3 \\ 0 & 2 & 2 \\ 0 & 0 & 0  \\ 0 & 4 & 4 \end{array}}\right)=
+\left({\begin{array}{ccc} 1 & 2 & 3 \\ 0 & 2 & 2 \\ 0 & 0 & 0  \\ 0 & 0 & 0 \end{array}}\right)
+= U
+\end{equation}
+\\Rank of the matrix is 2 because there are 2 pivots point, number 1 in the first row, and the first number 2 in the second row.
+\\There are 2 pivot columns:
+\begin{equation}
+Pivot\_columns = 
+\left({\begin{array}{cc} 1 & 2 \\ 0 & 2 \\ 0 & 0 \\ 0 & 0 \end{array}}\right)
+\end{equation}
+\\There are 1 free column: 
+\begin{equation}
+Free\_column = 
+\left({\begin{array}{cc} 3 \\ 2 \\ 0 \\ 0 \end{array}}\right)
+\end{equation}
+
+
+From U to R
+\begin{equation}
+U = 
+\left({\begin{array}{ccc} 1 & 2 & 3 \\ 0 & 2 & 2 \\ 0 & 0 & 0  \\ 0 & 0 & 0 \end{array}}\right)=
+\left({\begin{array}{ccc} 1 & 0 & 1 \\ 0 & 1 & 1 \\ 0 & 2 & 2 \\ 0 & 4 & 4 \end{array}}\right)
+= R =
+\end{equation}
+\\ There are 2 main matrices we need to focus on, one is the Identity matrix at the top left corner of the matrix R, the other is the free (F) part next to the Identity matrix at the top right corner of the matrix R.
+Identity matrix is:
+\begin{equation}
+I = 
+\left({\begin{array}{cc} 1 & 0 \\ 0 & 1 \end{array}}\right)
+\end{equation}
+Free matrix is
+\begin{equation}
+F =
+\left({\begin{array}{c} 1 \\ 1 \end{array}}\right)
+\end{equation}
+\\ The nullspace, also known as the solution, called N, is the matrix:
+\begin{equation}
+x = N =
+c * \left({\begin{array}{c} - F \\ I \end{array}}\right)
+\end{equation}
+
+\subsection{Video 8 (Nov 11, 2021)}
+
+Summarize the lecture so far at the end of the videos.
+\\The rank of the matrix tell you about the number of solution for the equation Ax = b
+\\There are full ROW rank, full COL rank.
+\\The solvability of the equation Ax = b.
+\\The form of the solution of Ax = b is X = Xparticular + Xnullspace.
+\\X-nullspace always for Ax = 0.
+
+\subsection{Video 9 (Nov 16, 2021)}
+Independence, Basis and dimension
+\\Definition of independence vectors.
+\\18m: Vector span a space
+\\24m: basics
+\\nho viet lai theo dang item cho cai note nay
+\\35m: given a space, every basis for the space has the same number of vectors, that number of vectors is called dimension, this is the definition of the dimension of the spaces
+\\rank of matrix A = number of pivot columns = dimension of space of A, written as C(A)
+
+\subsection{Video 10 (Nov 16, 2021)}
+Four fundamental subspace is the matrix
+\\Fix the error in the video 9, the error is the 2 rows is the same so the rank in row is only 2, so it is not invertible, because of the transposition A'.
+\\4m: the 4 subspaces
+\\10m: the picture of 4 spaces

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.4)  7 FEB 2022 01:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.4)  7 FEB 2022 01:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**e:/study_notes/daily_study_notes.tex
-(e:/study_notes/daily_study_notes.tex
+**e:/study_notes/study_note_main.tex
+(e:/study_notes/study_note_main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -446,7 +446,7 @@ Package: filehook-2020 2020/09/29 v0.8a Hooks for input files
 \c@currfiledepth=\count322
 )
 \pytx@codefile=\write5
-\openout5 = `daily_study_notes.pytxcode'.
+\openout5 = `study_note_main.pytxcode'.
 
 \c@pytx@FancyVerbLineTemp=\count323
 \c@pytx@py@default@default=\count324
@@ -679,23 +679,23 @@ File: biblatex.cfg
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count457
 \l__pdf_internal_box=\box72
-) (daily_study_notes.aux)
-\openout1 = `daily_study_notes.aux'.
+) (study_note_main.aux)
+\openout1 = `study_note_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count458
@@ -715,12 +715,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-No file pythontex-files-daily_study_notes/daily_study_notes.pytxmcr.
+No file pythontex-files-study_note_main/study_note_main.pytxmcr.
 Run PythonTeX to create it.
-Package newfloat Info: New float `listing' with options `fileext=lopytx' on input line 39.
+Package newfloat Info: New float `listing' with options `fileext=lopytx' on input line 41.
 \c@listing=\count464
 \newfloat@ftype=\count465
-Package newfloat Info: float type `listing'=8 on input line 39.
+Package newfloat Info: float type `listing'=8 on input line 41.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 (C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx
@@ -742,22 +742,14 @@ Package: xparse 2022-01-12 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 )
-\openout6 = `daily_study_notes.bcf'.
+\openout6 = `study_note_main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'daily_study_notes.bbl' found.
- (daily_study_notes.bbl)
-Package biblatex Info: Reference section=0 on input line 39.
-Package biblatex Info: Reference segment=0 on input line 39.
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 41.
- (C:\Program Files\MiKTeX\tex/latex/base\t1cmss.fd
-File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-
-LaTeX Font Warning: Font shape `T1/cmss/bx/sc' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 41.
-
-(daily_study_notes.toc
+Package biblatex Info: ... file 'study_note_main.bbl' found.
+ (study_note_main.bbl)
+Package biblatex Info: Reference section=0 on input line 41.
+Package biblatex Info: Reference segment=0 on input line 41.
+ (study_note_main.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -769,9 +761,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {C:/Users/ALEX DO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
 \tf@toc=\write7
-\openout7 = `daily_study_notes.toc'.
+\openout7 = `study_note_main.toc'.
 
- [2] (github_commands.tex
+ [2] (content_github_commands.tex
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6.
  (C:\Program Files\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -785,183 +777,116 @@ Overfull \hbox (140.84972pt too wide) in paragraph at lines 23--24
 []\T1/cmr/m/n/10 Copy the gen-er-ated To-ken, it will be some-thing like $\OML/cmm/m/it/10 ghp[]sFhFsSHhTzMDreGRLjmks\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 Tzuzgthdvfsrta$ 
  []
 
-) [1
+) (content_linear_algebra.tex [1
 
-] [2] [3] [4] [5]
-<./images//emLinux_c03_signal_ctrl_C.jpg, id=39, 759.83875pt x 133.49875pt>
-File: ./images//emLinux_c03_signal_ctrl_C.jpg Graphic file (type jpg)
-<use ./images//emLinux_c03_signal_ctrl_C.jpg>
-Package pdftex.def Info: ./images//emLinux_c03_signal_ctrl_C.jpg  used on input line 210.
-(pdftex.def)             Requested size: 379.91844pt x 66.74919pt.
-
-Overfull \hbox (34.91844pt too wide) in paragraph at lines 210--211
-[][] 
- []
-
-<./images//emLinux_c03_multiple_processes.jpg, id=41, 834.11626pt x 95.6072pt>
-File: ./images//emLinux_c03_multiple_processes.jpg Graphic file (type jpg)
-<use ./images//emLinux_c03_multiple_processes.jpg>
-Package pdftex.def Info: ./images//emLinux_c03_multiple_processes.jpg  used on input line 223.
-(pdftex.def)             Requested size: 417.05711pt x 47.80347pt.
-
-Overfull \hbox (72.05711pt too wide) in paragraph at lines 223--224
-[][] 
- []
-
-<./images//emLinux_c03_fields-of_ps-aux_command.jpg, id=42, 868.74562pt x 218.31563pt>
-File: ./images//emLinux_c03_fields-of_ps-aux_command.jpg Graphic file (type jpg)
-<use ./images//emLinux_c03_fields-of_ps-aux_command.jpg>
-Package pdftex.def Info: ./images//emLinux_c03_fields-of_ps-aux_command.jpg  used on input line 229.
-(pdftex.def)             Requested size: 434.37175pt x 109.15753pt.
-
-Overfull \hbox (89.37175pt too wide) in paragraph at lines 229--230
-[][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6 <./images//emLinux_c03_signal_ctrl_C.jpg> <./images//emLinux_c03_multiple_processes.jpg>]
-Overfull \hbox (4.78183pt too wide) in paragraph at lines 263--264
-[]\T1/cmr/m/n/10 Tai may win-dows thi dung mobaX-term, va go lenh ssh de-bian@192.168.0.43. 
- []
-
-[7 <./images//emLinux_c03_fields-of_ps-aux_command.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 283--294
+] [2] [3]) (content_control_bootcamp_SteveBruton.tex [4]
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--294
-
- []
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
-
- []
-
-[9] [10]
-Overfull \hbox (14.26967pt too wide) in paragraph at lines 465--466
+[5] [6]
+Overfull \hbox (14.26967pt too wide) in paragraph at lines 172--173
 []\T1/cmr/m/n/10 Then mul-ti-ply with $\OML/cmm/m/it/10 T$ \T1/cmr/m/n/10 to map it back to $\OML/cmm/m/it/10 X$ \T1/cmr/m/n/10 co-or-di-nates, $\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 Te[]T[]:X\OT1/cmr/m/n/10 (0)$
  []
 
-[11]
-<./images//jlink_segger_edu_9pin_JWD-SWD_connector.jpg, id=68, 777.65532pt x 838.63312pt>
+[7]
+<./images//jlink_segger_edu_9pin_JWD-SWD_connector.jpg, id=50, 777.65532pt x 838.63312pt>
 File: ./images//jlink_segger_edu_9pin_JWD-SWD_connector.jpg Graphic file (type jpg)
 <use ./images//jlink_segger_edu_9pin_JWD-SWD_connector.jpg>
-Package pdftex.def Info: ./images//jlink_segger_edu_9pin_JWD-SWD_connector.jpg  used on input line 551.
+Package pdftex.def Info: ./images//jlink_segger_edu_9pin_JWD-SWD_connector.jpg  used on input line 258.
 (pdftex.def)             Requested size: 233.2984pt x 251.59187pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12] [13 <./images//jlink_segger_edu_9pin_JWD-SWD_connector.jpg>] [14] [15]
-Overfull \hbox (6.36409pt too wide) in paragraph at lines 825--825
+[8] [9 <./images//jlink_segger_edu_9pin_JWD-SWD_connector.jpg>] [10] [11]
+Overfull \hbox (6.36409pt too wide) in paragraph at lines 532--532
 |[]\T1/cmr/bx/n/12 Vid 9 - Con-trol-la-bil-ity and the Popov-Belevitch-Hautus
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 828--831
+Underfull \hbox (badness 10000) in paragraph at lines 535--538
 
  []
 
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 833--836
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 842--846
-
- []
-
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 865--867
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 540--543
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 868--872
+Underfull \hbox (badness 10000) in paragraph at lines 549--553
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 572--574
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 873--877
+Underfull \hbox (badness 10000) in paragraph at lines 575--579
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 882--884
+Underfull \hbox (badness 10000) in paragraph at lines 580--584
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 889--895
+Underfull \hbox (badness 10000) in paragraph at lines 589--591
 
  []
 
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 905--906
+
+Underfull \hbox (badness 10000) in paragraph at lines 596--602
 
  []
 
-[19]
-<./images//control_bootcamp_stable_region_in_s_and_z_domain.jpg, id=97, 722.7pt x 542.025pt>
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 612--613
+
+ []
+
+) (content_matlab_simulink.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+) (content_stm32_toanchung.tex
+<./images//control_bootcamp_stable_region_in_s_and_z_domain.jpg, id=79, 722.7pt x 542.025pt>
 File: ./images//control_bootcamp_stable_region_in_s_and_z_domain.jpg Graphic file (type jpg)
 <use ./images//control_bootcamp_stable_region_in_s_and_z_domain.jpg>
-Package pdftex.def Info: ./images//control_bootcamp_stable_region_in_s_and_z_domain.jpg  used on input line 954.
+Package pdftex.def Info: ./images//control_bootcamp_stable_region_in_s_and_z_domain.jpg  used on input line 19.
 (pdftex.def)             Requested size: 216.81166pt x 162.60875pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 959--988
+Underfull \hbox (badness 10000) in paragraph at lines 24--53
 
  []
 
-[20 <./images//control_bootcamp_stable_region_in_s_and_z_domain.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 1000--1003
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1004--1005
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1013--1021
-
- []
-
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 1027--1036
-
- []
-
-
-Overfull \hbox (1.63919pt too wide) in paragraph at lines 1068--1068
-[]\T1/cmr/m/n/10 G. Strang. \T1/cmr/m/it/10 In-tro-duc-tion to Lin-ear Al-ge-bra\T1/cmr/m/n/10 . Wellesley-Cambridge Press, 2021.
- []
-
-[22] [23] (daily_study_notes.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package logreq Info: Writing requests to 'daily_study_notes.run.xml'.
-\openout1 = `daily_study_notes.run.xml'.
+[16 <./images//control_bootcamp_stable_region_in_s_and_z_domain.jpg>]) (content_whats_next.tex [17]) [18] (study_note_main.aux)
+Package logreq Info: Writing requests to 'study_note_main.run.xml'.
+\openout1 = `study_note_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25276 strings out of 478593
- 502866 string characters out of 2854412
- 1205874 words of memory out of 3000000
- 43039 multiletter control sequences out of 15000+600000
- 484525 words of font info for 67 fonts, out of 8000000 for 9000
+ 25179 strings out of 478593
+ 499844 string characters out of 2854412
+ 1204759 words of memory out of 3000000
+ 42933 multiletter control sequences out of 15000+600000
+ 482407 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,15n,89p,765b,1258s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on daily_study_notes.pdf (25 pages, 708760 bytes).
+ 84i,15n,89p,763b,1130s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\ALEX DO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on study_note_main.pdf (20 pages, 578120 bytes).
 PDF statistics:
- 526 PDF objects out of 1000 (max. 8388607)
+ 452 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
