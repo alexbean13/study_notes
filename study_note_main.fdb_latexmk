@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber study_note_main"] 1644221805 "study_note_main.bcf" "study_note_main.bbl" "study_note_main" 1644222724
-  "study_note_main.bcf" 1644222724 106489 5d29b00d9eae7cd9dcd4ae6d6ff19f03 "pdflatex"
+["biber study_note_main"] 1644221805 "study_note_main.bcf" "study_note_main.bbl" "study_note_main" 1644224227
+  "study_note_main.bcf" 1644224227 106489 5d29b00d9eae7cd9dcd4ae6d6ff19f03 "pdflatex"
   (generated)
   "study_note_main.bbl"
   "study_note_main.blg"
-["pdflatex"] 1644222722 "e:/study_notes/study_note_main.tex" "study_note_main.pdf" "study_note_main" 1644222724
+["pdflatex"] 1644224225 "e:/study_notes/study_note_main.tex" "study_note_main.pdf" "study_note_main" 1644224227
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1000.tfm" 993058356 3200 328792ff19833a39406f06fa0555a6dc ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993058358 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993058360 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
@@ -165,14 +165,14 @@
   "C:/Users/ALEX DO/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1643449471 11548 338991118cf68946170ed8e5d7c93d39 ""
   "C:/Users/ALEX DO/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1643959346 10233661 72926b21ac4f0d84287b79d7dd476c48 ""
   "content_github_commands.tex" 1644216053 1868 5ec175f696f2c770b6d7eb2652e74db4 ""
-  "content_whats_next.tex" 1644222721 2213 0f0d3e4494f73ba1b828a89665abec75 ""
+  "content_whats_next.tex" 1644224222 2262 28be2aaa4541f8da03a38542d94fd7fb ""
   "e:/study_notes/study_note_main.tex" 1644221802 1106 5f922ec8b8144f2a75353abc7ea01025 ""
   "pythontex-files-study_note_main/study_note_main.pytxmcr" 0 -1 0 ""
-  "study_note_main.aux" 1644222724 1437 4de327eacf3a50233d1cd357b7b3092f "pdflatex"
+  "study_note_main.aux" 1644224227 1437 28ba83ebd9632e17b098cb61b1abc846 "pdflatex"
   "study_note_main.bbl" 1644221808 486 f7f239c736cf01ac6ce7bd829f9b3c7b "biber study_note_main"
-  "study_note_main.run.xml" 1644222724 2375 db681c188a8383ad6eee0cb8ddf6c67b "pdflatex"
+  "study_note_main.run.xml" 1644224227 2375 db681c188a8383ad6eee0cb8ddf6c67b "pdflatex"
   "study_note_main.tex" 1644221802 1106 5f922ec8b8144f2a75353abc7ea01025 ""
-  "study_note_main.toc" 1644222724 686 fa1eb44fca7b9f01f8ff89fff8f6b0a9 "pdflatex"
+  "study_note_main.toc" 1644224227 686 4fcc6e857f6a4e6dc819428e4d45e105 "pdflatex"
   (generated)
   "study_note_main.aux"
   "study_note_main.bcf"
