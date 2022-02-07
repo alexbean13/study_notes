@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber daily_study_notes"] 1644213868 "daily_study_notes.bcf" "daily_study_notes.bbl" "daily_study_notes" 1644214417
-  "daily_study_notes.bcf" 1644214417 106901 9b5c4a43171c535ab791e2db0a5ce59b "pdflatex"
+["biber daily_study_notes"] 1644214781 "daily_study_notes.bcf" "daily_study_notes.bbl" "daily_study_notes" 1644214877
+  "daily_study_notes.bcf" 1644214876 106901 9b5c4a43171c535ab791e2db0a5ce59b "pdflatex"
   "endnote_export2_bib.bib" 1643955477 264 86f9052b9e3cf65231a0f37d6081b9eb ""
   (generated)
   "daily_study_notes.bbl"
   "daily_study_notes.blg"
-["pdflatex"] 1644214415 "e:/study_notes/daily_study_notes.tex" "daily_study_notes.pdf" "daily_study_notes" 1644214417
+["pdflatex"] 1644214874 "e:/study_notes/daily_study_notes.tex" "daily_study_notes.pdf" "daily_study_notes" 1644214877
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1000.tfm" 993058356 3200 328792ff19833a39406f06fa0555a6dc ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993058358 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/eccc1000.tfm" 993058380 2788 9da2d2e7e17b2a98c3aa301c9668a522 ""
@@ -193,13 +193,13 @@
   "C:/Users/ALEX DO/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000.pk" 1643449470 20028 9c8875ad461d8dbf62fda7285ec3837a ""
   "C:/Users/ALEX DO/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1643449471 11548 338991118cf68946170ed8e5d7c93d39 ""
   "C:/Users/ALEX DO/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1643959346 10233661 72926b21ac4f0d84287b79d7dd476c48 ""
-  "daily_study_notes.aux" 1644214417 11682 f5b5f921e818d6d04f2e1f8c83d9dc23 "pdflatex"
-  "daily_study_notes.bbl" 1644213871 1791 540641ce1c442786185f8e3756fb73c3 "biber daily_study_notes"
-  "daily_study_notes.run.xml" 1644214417 2405 75e73794d9852dd02059c6526cf938b7 "pdflatex"
+  "daily_study_notes.aux" 1644214876 11682 f5b5f921e818d6d04f2e1f8c83d9dc23 "pdflatex"
+  "daily_study_notes.bbl" 1644214784 1791 540641ce1c442786185f8e3756fb73c3 "biber daily_study_notes"
+  "daily_study_notes.run.xml" 1644214876 2405 75e73794d9852dd02059c6526cf938b7 "pdflatex"
   "daily_study_notes.tex" 1644213786 43756 55817a0a7b8ead28956126d4cb8914e3 ""
-  "daily_study_notes.toc" 1644214417 6839 1e527b8103a9f182be53d90bcec7b6db "pdflatex"
+  "daily_study_notes.toc" 1644214876 6839 1e527b8103a9f182be53d90bcec7b6db "pdflatex"
   "e:/study_notes/daily_study_notes.tex" 1644213786 43756 55817a0a7b8ead28956126d4cb8914e3 ""
-  "github_commands.tex" 1644214414 1869 ade4dd499ff2e35b8d31602da2cab609 ""
+  "github_commands.tex" 1644214873 1868 5ec175f696f2c770b6d7eb2652e74db4 ""
   "images//control_bootcamp_stable_region_in_s_and_z_domain.jpg" 1643440138 48651 ef849ba465b138a421cd2f3b27c7107f ""
   "images//emLinux_c03_fields-of_ps-aux_command.jpg" 1643440138 65536 92fb650947eef09ae38743208e286df2 ""
   "images//emLinux_c03_multiple_processes.jpg" 1643440138 31288 755f5e7d87aa8f503e6f77675388c0ff ""
