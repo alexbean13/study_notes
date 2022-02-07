@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber study_note_main"] 1644216887 "study_note_main.bcf" "study_note_main.bbl" "study_note_main" 1644216895
+["biber study_note_main"] 1644219443 "study_note_main.bcf" "study_note_main.bbl" "study_note_main" 1644219452
   "ref.bib" 1644216370 249 0a27830f6b9df51722bf4eed2fafef61 ""
-  "study_note_main.bcf" 1644216895 106617 7995105f47434504efddfca20d8db825 "pdflatex"
+  "study_note_main.bcf" 1644219451 106535 6cb7b752aa1eddd7d95a0ff5f7ac0681 "pdflatex"
   (generated)
   "study_note_main.bbl"
   "study_note_main.blg"
-["pdflatex"] 1644216893 "e:/study_notes/study_note_main.tex" "study_note_main.pdf" "study_note_main" 1644216895
+["pdflatex"] 1644219449 "e:/study_notes/study_note_main.tex" "study_note_main.pdf" "study_note_main" 1644219452
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1000.tfm" 993058356 3200 328792ff19833a39406f06fa0555a6dc ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993058358 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993058360 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
@@ -193,15 +193,15 @@
   "content_matlab_simulink.tex" 1644215895 289 a3069d78dc46c239f7ec3e285d8740b8 ""
   "content_stm32_toanchung.tex" 1644216012 2566 190ff8b491760cec0dfd174189facd01 ""
   "content_whats_next.tex" 1644215931 763 22e45de657388f78f9979db79a705a00 ""
-  "e:/study_notes/study_note_main.tex" 1644216885 1855 4724071df1c56fdf7ce5d327c16837d2 ""
+  "e:/study_notes/study_note_main.tex" 1644219438 1415 24f88c9847d6818b884f385e5e3817e1 ""
   "images//control_bootcamp_stable_region_in_s_and_z_domain.jpg" 1643440138 48651 ef849ba465b138a421cd2f3b27c7107f ""
   "images//jlink_segger_edu_9pin_JWD-SWD_connector.jpg" 1643440138 242414 8208e179481b53024ecfc3aa519d0ce6 ""
   "pythontex-files-study_note_main/study_note_main.pytxmcr" 0 -1 0 ""
-  "study_note_main.aux" 1644216895 8879 7cf77d6384aa404a018d19ae15aeffd1 "pdflatex"
-  "study_note_main.bbl" 1644216890 1791 540641ce1c442786185f8e3756fb73c3 "biber study_note_main"
-  "study_note_main.run.xml" 1644216895 2409 2b44ed1108f742c53da9b1599d017de6 "pdflatex"
-  "study_note_main.tex" 1644216885 1855 4724071df1c56fdf7ce5d327c16837d2 ""
-  "study_note_main.toc" 1644216895 5401 0c3b22483eff5842713a92a64aa8f2a9 "pdflatex"
+  "study_note_main.aux" 1644219451 8879 7cf77d6384aa404a018d19ae15aeffd1 "pdflatex"
+  "study_note_main.bbl" 1644219447 1791 540641ce1c442786185f8e3756fb73c3 "biber study_note_main"
+  "study_note_main.run.xml" 1644219451 2375 db681c188a8383ad6eee0cb8ddf6c67b "pdflatex"
+  "study_note_main.tex" 1644219438 1415 24f88c9847d6818b884f385e5e3817e1 ""
+  "study_note_main.toc" 1644219451 5401 0c3b22483eff5842713a92a64aa8f2a9 "pdflatex"
   (generated)
   "study_note_main.aux"
   "study_note_main.bcf"

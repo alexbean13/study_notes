@@ -80,7 +80,6 @@
     </requires>
     <requires type="editable">
       <file>ref.bib</file>
-      <file>references.bib</file>
     </requires>
   </external>
 </requests>
