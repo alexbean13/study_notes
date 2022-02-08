@@ -16,7 +16,19 @@
 \usepackage{enumitem} 
 \usepackage{pythontex}
 
-
+%% COMMAND PART
+\newcommand\inv[1]{#1\raisebox{1.15ex}{$\scriptscriptstyle-\!1$}}
+\newcommand*\sectionlabel{}
+\titleformat{\section}
+    {\gdef\sectionlabel{}
+    \normalfont\sffamily\Large\bfseries\scshape}
+    {\gdef\sectionlabel{\thesection\ }}{0pt}
+    {
+\noindent
+\begin{tikzpicture}
+\node[rectangle,rounded corners=3pt,inner sep=4pt,fill=blue!50!black,text width= 0.95\columnwidth] {\color{white}\sectionlabel#1};
+\end{tikzpicture}
+}
 
 \titlespacing*{\section}{0pt}{15pt}{10pt}
 
@@ -31,7 +43,7 @@
 \newpage
 \pagenumbering{arabic}
 
-\cite{RN10}
+
 \input{./content_whats_next.tex}
 \input{./content_github_commands.tex}
 % \input{./content_linear_algebra.tex}
@@ -39,9 +51,7 @@
 % \input{./content_control_bootcamp_SteveBruton.tex}
 % \input{./content_matlab_simulink.tex}
 % \input{./content_stm32_toanchung.tex}
+\cite{RN10}
 
-
-
-\bibliographystyle{unsrt}
-\bibliography{ref}
+\input{./content_ref.tex}
 \end{document}
