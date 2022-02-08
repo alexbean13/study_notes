@@ -6,7 +6,7 @@
 % This packet is for the math notation
 \usepackage{amsmath, amssymb}%  , amsfonts, amsthm, fouriernc}
 \usepackage{mathtools} % for 'bmatrix*' env.; loads 'amsmath' package automatically
-% \usepackage{natbib}
+\usepackage{natbib}
 \usepackage{graphicx}
 \usepackage{xurl}
 \graphicspath{ {./images/} }
@@ -15,9 +15,8 @@
 \usepackage[explicit]{titlesec}
 \usepackage{enumitem} 
 \usepackage{pythontex}
-\usepackage{biblatex} %Imports biblatex package
-\bibliography{ref}
-% \bibliographystyle{unsrt}
+
+
 
 \titlespacing*{\section}{0pt}{15pt}{10pt}
 
@@ -32,7 +31,7 @@
 \newpage
 \pagenumbering{arabic}
 
-
+\cite{RN10}
 \input{./content_whats_next.tex}
 \input{./content_github_commands.tex}
 % \input{./content_linear_algebra.tex}
@@ -43,5 +42,6 @@
 
 
 
-
+\bibliographystyle{unsrt}
+\bibliography{ref}
 \end{document}
